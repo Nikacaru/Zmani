@@ -1,0 +1,1036 @@
+{
+  "created_by": "seed-investors",
+  "generated": "2026-11-24",
+  "ask": 1500000,
+  "criteria": {
+    "stage": "pre-seed",
+    "sectors": [
+      "fashion",
+      "e-commerce",
+      "consumer",
+      "AI",
+      "marketplaces"
+    ],
+    "geo": [
+      "Georgia",
+      "Caucasus"
+    ],
+    "check": {
+      "min": 75000,
+      "max": 750000
+    }
+  },
+  "investors": [
+    {
+      "id": "a16z-speedrun",
+      "name": "a16z speedrun",
+      "firm": "Andreessen Horowitz (speedrun)",
+      "role": "",
+      "email": "",
+      "stage": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_min": 500000,
+      "check_max": 1000000,
+      "sectors": [
+        "AI",
+        "consumer",
+        "fintech",
+        "B2B",
+        "robotics",
+        "security"
+      ],
+      "geo": [
+        "global"
+      ],
+      "last_relevant_deal": null,
+      "sources": [
+        "https://speedrun.a16z.com",
+        "https://speedrun.a16z.com/faq"
+      ],
+      "warm_intro": false,
+      "personal_line": "Speedrun's FAQ says it invests across consumer and AI and has taken founders from 20+ countries.",
+      "notes": "Standard deal: $500K for 10% on a SAFE plus up to $500K more in the next qualifying round ($2M+) within 18 months. SR008 applications closed on Nov 1, 2026; next is SR009, starting late July 2027. 12-week residency in San Francisco, with some in-person attendance needed (the FAQ is inconsistent on how often), so visa planning is needed.",
+      "fit": 80,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "sectors match: consumer, AI (+25)",
+        "checks of $500K-$1M fit the $75K-$750K you want (+20)",
+        "no relevant deal on record (+0)",
+        "invests globally (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "mammad-karim",
+      "name": "Mammad Karim",
+      "firm": "Caucasus Ventures",
+      "role": "General Partner",
+      "email": "",
+      "stage": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_min": 50000,
+      "check_max": 200000,
+      "sectors": [
+        "fintech",
+        "SaaS",
+        "health",
+        "gaming",
+        "applied AI"
+      ],
+      "geo": [
+        "Caucasus",
+        "Georgia",
+        "Turkey",
+        "CEE",
+        "Central Asia",
+        "global"
+      ],
+      "last_relevant_deal": {
+        "what": "Invested in Lilitopia, FROMFOLIO and its first SPV deal (Positron AI, with 1517 Fund); portfolio reached 32",
+        "date": "2026-02-12"
+      },
+      "sources": [
+        "https://caucasus.vc/",
+        "https://www.caucasus.vc/team/",
+        "https://tech.az/en/posts/caucasus-ventures-invests-in-3-startups-6574",
+        "https://mincom.gov.az/en/projects/caucasus-venturesen",
+        "https://tech.eu/2025/04/03/klipy-raises-12m-seed-to-monetise-gifs-stickers-and-memes/"
+      ],
+      "warm_intro": false,
+      "personal_line": "Your February 2026 investment in FROMFOLIO, a platform that helps designers sell their work globally, suggests you back regional consumer-facing marketplaces as well as SaaS.",
+      "notes": "Site says post-MVP only (no idea stage), wants real traction; first cheque $50-100K, follow-on up to $200K. Sectors on site don't include fashion or e-commerce. Third-party sources (Vestbee) say it backed Georgian-founded KLIPY's 2025 seed; I did not open the Vestbee page. Pitch email is obfuscated on the site; use the caucasus.vc/apply form. Backed by IDDA and PASHA Holding.",
+      "fit": 79,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "sectors match: AI (+15)",
+        "checks of $50K-$200K fit the $75K-$750K you want (+20)",
+        "Invested in Lilitopia, FROMFOLIO and its first SPV deal (Positron AI, with 1517 Fund); portfolio reached 32, 285 days ago (+9)",
+        "invests globally (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "anton-timashev",
+      "name": "Anton Timashev",
+      "firm": "Tetrad VC",
+      "role": "Co-Founder",
+      "email": "",
+      "stage": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_min": 100000,
+      "check_max": 1000000,
+      "sectors": [
+        "B2B software",
+        "vertical AI",
+        "AI infrastructure",
+        "physical AI",
+        "healthtech",
+        "fintech"
+      ],
+      "geo": [
+        "global"
+      ],
+      "last_relevant_deal": {
+        "what": "Participated in Helio AI's ~$1M seed (Georgian-founded team)",
+        "date": "2025-11-26"
+      },
+      "sources": [
+        "https://tetrad.vc",
+        "https://tetrad.vc/team/",
+        "https://tech.eu/2025/11/26/recruiting-platform-helio-secures-1m-seed-to-power-faster-fairer-frontline-hiring/"
+      ],
+      "warm_intro": false,
+      "personal_line": "Tetrad joined the seed round of Helio AI, a Georgian-founded team, in November 2025.",
+      "notes": "Site lists US, UK, EU as geography and B2B/AI sectors; consumer fashion is off-thesis. Included only because of the Georgian-team deal. No pitch email; site has an Apply for Funding form. Other co-founders: George Yashin, Anna Novichkova.",
+      "fit": 78,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "sectors match: AI (+15)",
+        "checks of $100K-$1M fit the $75K-$750K you want (+20)",
+        "Participated in Helio AI's ~$1M seed (Georgian-founded team), 363 days ago (+8)",
+        "invests globally (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "bas-godska",
+      "name": "Bas Godska",
+      "firm": "Acrobator Ventures (angel)",
+      "role": "Partner Emeritus, Marketing; angel investor",
+      "email": "",
+      "stage": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_min": 150000,
+      "check_max": 1650000,
+      "sectors": [
+        "B2B(2C) AI/ML software",
+        "ecommerce (background)"
+      ],
+      "geo": [
+        "CEE",
+        "CIS",
+        "Baltics",
+        "Georgia"
+      ],
+      "last_relevant_deal": {
+        "what": "Angel investor in Helio AI's ~$1M seed",
+        "date": "2025-11-26"
+      },
+      "sources": [
+        "https://acrobator.vc",
+        "https://acrobator.com",
+        "https://tech.eu/2025/11/26/recruiting-platform-helio-secures-1m-seed-to-power-faster-fairer-frontline-hiring/"
+      ],
+      "warm_intro": false,
+      "personal_line": "Your bio describes you as an eCommerce pioneer and former CMO of lastminute.com and Orbitz, and you backed the Georgian-founded Helio AI in November 2025.",
+      "notes": "The $150K-1.65M check is Acrobator Ventures' fund range; his personal angel check is not published. At the fund he is now Partner Emeritus; Managing Partner is Joachim Laqueur. No pitch email on acrobator.vc (hi@acrobator.com is the marketing agency's general address, not used). Marketing/eCommerce background could be a fit for a consumer commerce product.",
+      "fit": 78,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "sectors match: AI (+15)",
+        "checks of $150K-$1.65M fit the $75K-$750K you want (+20)",
+        "Angel investor in Helio AI's ~$1M seed, 363 days ago (+8)",
+        "invests in Georgia (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "flyer-one-ventures",
+      "name": "Flyer One Ventures",
+      "firm": "Flyer One Ventures",
+      "role": "",
+      "email": "go@flyerone.vc",
+      "stage": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_min": 350000,
+      "check_max": 1500000,
+      "sectors": [
+        "software",
+        "AI",
+        "e-commerce",
+        "fintech",
+        "edtech"
+      ],
+      "geo": [
+        "CEE",
+        "Ukraine"
+      ],
+      "last_relevant_deal": {
+        "what": "Launched €50M Fund V (EBRD and IFC anchor), pre-seed and seed",
+        "date": "2025-07-10"
+      },
+      "sources": [
+        "https://flyerone.vc/about",
+        "https://tech.eu/2025/07/10/flyer-one-ventures-launches-eur50m-fund-v-to-back-cee-and-ukrainian-startups/",
+        "https://www.entrepreneur.com/ka/siakhleebi-da-tendentsiebi/sturgeon-capital-georgia-startup-investment-summit/469868"
+      ],
+      "warm_intro": false,
+      "personal_line": "Flyer One was one of the international VCs at the Sturgeon Georgia investment summit in Tbilisi in February 2024.",
+      "notes": "last_deal is a fund launch, not an investment; I did not verify a specific recent deal (an aggregator lists a $1.6M pre-seed in Superapp, Mar 2026, unverified). Checks are in EUR (avg €500K, €350K-1.5M). Wants post-MVP with early traction. Focus is CEE/Ukrainian founders; I found no Georgian deal. Avoids hardware, crypto, deep tech and game studios. 'e-commerce' sector comes from the tech.eu search result, not the firm site. No partner named on about page.",
+      "fit": 75,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "sectors match: e-commerce, AI (+25)",
+        "checks of $350K-$1.5M fit the $75K-$750K you want (+20)",
+        "Launched €50M Fund V (EBRD and IFC anchor), pre-seed and seed, 502 days ago (+5)",
+        "invests in CEE, Ukraine, not Georgia, Caucasus (+0)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "collective-spark",
+      "name": "Collective Spark",
+      "firm": "Collective Spark",
+      "role": "",
+      "email": "contact@collectivespark.com",
+      "stage": [
+        "pre-seed",
+        "seed",
+        "series a"
+      ],
+      "check_min": 500000,
+      "check_max": 1000000,
+      "sectors": [
+        "fintech",
+        "marketplaces",
+        "SaaS",
+        "gaming",
+        "AI"
+      ],
+      "geo": [
+        "Turkey",
+        "MENA",
+        "Europe",
+        "US"
+      ],
+      "last_relevant_deal": null,
+      "sources": [
+        "https://collectivespark.com"
+      ],
+      "warm_intro": false,
+      "personal_line": "Collective Spark's portfolio includes consumer marketplaces from Turkey such as Justlife and Dekopasaj, and Turkey is ZMANI's planned fourth market.",
+      "notes": "Istanbul-based, category-agnostic, initial tickets $500K-1M (up to $5M with follow-ons), which is large for a $1.5M round. No dated recent deal verified; I found no 2026 pre-seed lead. Partners not named on the homepage. Fit depends on the Turkey expansion story. Rated weak: no Caucasus deals found.",
+      "fit": 70,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "sectors match: AI, marketplaces (+25)",
+        "checks of $500K-$1M fit the $75K-$750K you want (+20)",
+        "no relevant deal on record (+0)",
+        "invests in Turkey, MENA, Europe, US, not Georgia, Caucasus (+0)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "yagiz-karadeniz",
+      "name": "Yagiz Karadeniz",
+      "firm": "DOMiNO Ventures",
+      "role": "Managing Partner",
+      "email": "apply@dominovc.com",
+      "stage": [
+        "seed",
+        "series a"
+      ],
+      "check_min": 200000,
+      "check_max": 1000000,
+      "sectors": [
+        "AI",
+        "deeptech",
+        "healthtech",
+        "fintech",
+        "HR tech",
+        "edtech",
+        "gametech",
+        "generalist digital"
+      ],
+      "geo": [
+        "CEE",
+        "Central Asia",
+        "Caucasus",
+        "Georgia",
+        "Turkey",
+        "global"
+      ],
+      "last_relevant_deal": {
+        "what": "Participated in Helio AI's ~$1M seed led by SABAH.fund",
+        "date": "2025-11-25"
+      },
+      "sources": [
+        "https://dominovc.com",
+        "https://dominovc.com/team",
+        "https://the-tech.kz/central-asia-should-bet-on-deeptech-yagiz-karadeniz-on-the-regions-strong-engineering-potential",
+        "https://webrazzi.com/2025/11/25/yapay-zeka-destekli-ise-alim-platformu-helio-ai-domino-ventures-in-katildigi-turda-1-milyon-dolar-yatirim-aldi/"
+      ],
+      "warm_intro": false,
+      "personal_line": "In your October 2025 interview you urged Caucasus founders to think globally from day one, and DOMiNO has a Tbilisi office and backed the Georgian-founded Helio AI in November 2025.",
+      "notes": "Site says no idea-stage deals; tickets €200K-1M (check converted loosely to USD; published in EUR). Their stated 2025 focus was AI SaaS, PharmaTech and robotics, so consumer fashion is outside the core thesis. The site prefers a warm intro; apply@dominovc.com is published for direct pitches. Co-Managing Partner: Mustafa Kopuk. Axel's Iro Tsagareishvili is listed as a DOMiNO advisor/fellow, which could be a route to a warm intro (not verified).",
+      "fit": 65,
+      "reasons": [
+        "invests at seed, series a, one stage off pre-seed (+12)",
+        "sectors match: AI (+15)",
+        "checks of $200K-$1M fit the $75K-$750K you want (+20)",
+        "Participated in Helio AI's ~$1M seed led by SABAH.fund, 364 days ago (+8)",
+        "invests globally (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "aglae-ventures",
+      "name": "Aglae Ventures",
+      "firm": "Aglae Ventures",
+      "role": "",
+      "email": "",
+      "stage": [
+        "pre-seed",
+        "seed",
+        "series a"
+      ],
+      "check_min": null,
+      "check_max": null,
+      "sectors": [
+        "generalist tech",
+        "consumer"
+      ],
+      "geo": [
+        "global"
+      ],
+      "last_relevant_deal": {
+        "what": "Returning investor in Alta (AI styling and personal-shopping app) $20M Series A pre-empted by Forerunner",
+        "date": "2026-10-22"
+      },
+      "sources": [
+        "https://www.aglaeventures.com",
+        "https://fortune.com/2026/10/22/alta-ai-fashion-app-series-a-20-million-forerunner-rent-the-runway/"
+      ],
+      "warm_intro": false,
+      "personal_line": "Aglae was a returning investor in Alta's $20M Series A in October 2026, an AI styling app with avatar try-ons.",
+      "notes": "Weak fit on stage and geography: the site says 'first cheque to pre-IPO' but publishes no thesis, check size, team or pitch email. Included as a consumer/fashion-AI signal. Stage list is inferred from 'first cheque to pre-IPO'.",
+      "fit": 64,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "sectors match: consumer (+15)",
+        "check size unknown (+0)",
+        "Returning investor in Alta (AI styling and personal-shopping app) $20M Series A pre-empted by Forerunner, 33 days ago (+14)",
+        "invests globally (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "rahim-bayramli-abbas-kazmi",
+      "name": "Rahim Bayramli; Abbas Kazmi",
+      "firm": "SABAH.fund (SABAH.HUB)",
+      "role": "Co-Founding General Partners",
+      "email": "info@sabahhub.com",
+      "stage": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_min": 100000,
+      "check_max": 750000,
+      "sectors": [
+        "fintech",
+        "edtech",
+        "cleantech",
+        "healthtech",
+        "other"
+      ],
+      "geo": [
+        "Caucasus",
+        "Georgia",
+        "Central Asia",
+        "MENA"
+      ],
+      "last_relevant_deal": {
+        "what": "Led Helio AI's ~$1M seed (Georgian-founded team)",
+        "date": "2025-11-26"
+      },
+      "sources": [
+        "https://sabahhub.com/fund",
+        "https://tech.eu/2025/11/26/recruiting-platform-helio-secures-1m-seed-to-power-faster-fairer-frontline-hiring/"
+      ],
+      "warm_intro": false,
+      "personal_line": "You led the seed round of Helio AI, a Georgian-founded team, in November 2025, and SABAH.fund's mandate explicitly covers South Caucasus founders.",
+      "notes": "Often leads but also follows. Stated sectors are not consumer/fashion ('other breakthrough ideas' is included). info@sabahhub.com is the general SABAH.HUB address on the fund page; the site also has a pitch form. Did not confirm which GP led Helio (one aggregator names Abbas Kazmi).",
+      "fit": 63,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "no sector overlap with fashion, e-commerce, consumer, AI, marketplaces (+0)",
+        "checks of $100K-$750K fit the $75K-$750K you want (+20)",
+        "Led Helio AI's ~$1M seed (Georgian-founded team), 363 days ago (+8)",
+        "invests in Georgia (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "digital-area-bank-of-georgia-group",
+      "name": "Digital Area (Bank of Georgia Group)",
+      "firm": "Digital Area",
+      "role": "Corporate venture / digital arm of Bank of Georgia Group (CEO Andro Ratiani per Shizune)",
+      "email": "",
+      "stage": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_min": null,
+      "check_max": null,
+      "sectors": [
+        "e-commerce",
+        "fintech",
+        "payments",
+        "marketplaces"
+      ],
+      "geo": [
+        "Georgia"
+      ],
+      "last_relevant_deal": {
+        "what": "Payze $125K pre-seed (per Shizune)",
+        "date": "2021-08-31"
+      },
+      "sources": [
+        "https://shizune.co/investors/profile/digital-area",
+        "https://500.co/eurasia"
+      ],
+      "warm_intro": false,
+      "personal_line": "Shizune's profile of Digital Area lists a June 2020 seed investment in 'CARU', a platform for booking vetted car mechanics.",
+      "notes": "LIKELY INACTIVE as a direct investor: last tracked deal Aug 2021. Bank of Georgia's current startup role is co-running the 500 Global Eurasia accelerator. IMPORTANT: Shizune lists a $15K seed in 'CARU' (2020-06-15); please check whether this is the founder's caru.ge. If so, it is an existing relationship and warm_intro should be updated. No official site or email found. Data comes only from an aggregator.",
+      "fit": 60,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "sectors match: e-commerce, marketplaces (+25)",
+        "check size unknown (+0)",
+        "Payze $125K pre-seed (per Shizune), 1911 days ago (+0)",
+        "invests in Georgia (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "jonathan-tower",
+      "name": "Jonathan Tower",
+      "firm": "Catapult VC (Catapult Georgia I, L.P.)",
+      "role": "General Partner / Managing Partner",
+      "email": "",
+      "stage": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_min": 25000,
+      "check_max": 25000,
+      "sectors": [
+        "consumer (e-commerce",
+        "marketplaces",
+        "digitally native brands)",
+        "enterprise SaaS",
+        "frontier tech"
+      ],
+      "geo": [
+        "Georgia"
+      ],
+      "last_relevant_deal": null,
+      "sources": [
+        "https://www.investor.ge/?p=1809",
+        "https://cbw.ge/business/government-becomes-a-limited-partner-in-the-50-million-catapult"
+      ],
+      "warm_intro": false,
+      "personal_line": "When Catapult opened its Tbilisi office in December 2021, it named consumer e-commerce, marketplaces and digitally native brands as a core focus for Georgian startups.",
+      "notes": "STATUS UNVERIFIED / POSSIBLY INACTIVE: the fund was aiming to raise $50M (Georgian government as LP under negotiation), but I found no close, no portfolio and no deals after 2021-2022. Note that catapult.vc is a different hardware-focused firm, not this fund. Initial checks of 'often around $25,000' (Dec 2021). No website or email found.",
+      "fit": 60,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "sectors match: e-commerce, consumer, marketplaces (+25)",
+        "checks of $25K are far from the $75K-$750K you want (+0)",
+        "no relevant deal on record (+0)",
+        "invests in Georgia (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "iro-tsagareishvili",
+      "name": "Iro Tsagareishvili",
+      "firm": "Axel - Georgian Business Angel Network",
+      "role": "Director",
+      "email": "",
+      "stage": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_min": 80000,
+      "check_max": 90000,
+      "sectors": [
+        "generalist tech"
+      ],
+      "geo": [
+        "Georgia",
+        "Caucasus",
+        "Central Asia",
+        "global"
+      ],
+      "last_relevant_deal": null,
+      "sources": [
+        "https://the-tech.kz/?p=40656",
+        "https://tech.eu/2025/11/26/recruiting-platform-helio-secures-1m-seed-to-power-faster-fairer-frontline-hiring/",
+        "https://the-tech.kz/?p=37675",
+        "https://dominovc.com/team"
+      ],
+      "warm_intro": false,
+      "personal_line": "In your June 2026 interview you said Axel usually comes in as the first or second check and focuses heavily on the founding team, which is where ZMANI is today.",
+      "notes": "Invests via syndicates/SPVs with its 100+ members; ~25-30 deals and over $2M deployed (June 2026 interview). $80-90K is the stated average ticket, not a published range. axelnetwork.org returned HTTP 402 to my fetch, so the site and its startup application form were not checked directly; no email used. Helio pre-seed date not given (it came before the Nov 2025 seed). Iro is also listed as an advisor/fellow at DOMiNO Ventures. Undated deal: Co-invested in Helio AI's $350K pre-seed (with angel Teimuraz Jashi and 500 Eurasia)",
+      "fit": 55,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "no sector overlap with fashion, e-commerce, consumer, AI, marketplaces (+0)",
+        "checks of $80K-$90K fit the $75K-$750K you want (+20)",
+        "no relevant deal on record (+0)",
+        "invests globally (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "kima-ventures",
+      "name": "Kima Ventures",
+      "firm": "Kima Ventures",
+      "role": "",
+      "email": "",
+      "stage": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_min": 150000,
+      "check_max": 150000,
+      "sectors": [
+        "any"
+      ],
+      "geo": [
+        "global"
+      ],
+      "last_relevant_deal": null,
+      "sources": [
+        "https://www.kimaventures.com"
+      ],
+      "warm_intro": false,
+      "personal_line": "Kima's site says it invests at any stage, deal size and sector, with a typical one-off ticket of 150K.",
+      "notes": "The site content I could read gave no geography, pitch route or team; the ticket currency is not stated on the site (likely EUR, unverified). Generic option for a first cheque. No recent deal verified.",
+      "fit": 55,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "no sector overlap with fashion, e-commerce, consumer, AI, marketplaces (+0)",
+        "checks of $150K fit the $75K-$750K you want (+20)",
+        "no relevant deal on record (+0)",
+        "invests globally (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "pedro-santos-vieira",
+      "name": "Pedro Santos Vieira",
+      "firm": "500 Global (500 Global in Eurasia, Georgia program)",
+      "role": "Partner, Georgia (leads pre-seed/seed investments in Caucasus, Eastern Europe, Central Asia, Baltics)",
+      "email": "",
+      "stage": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_min": 100000,
+      "check_max": 100000,
+      "sectors": [
+        "generalist tech"
+      ],
+      "geo": [
+        "Georgia",
+        "Caucasus",
+        "CEE",
+        "Central Asia",
+        "Baltics"
+      ],
+      "last_relevant_deal": {
+        "what": "Led STORI (Georgian AI martech) $500K pre-seed",
+        "date": "2024-02-06"
+      },
+      "sources": [
+        "https://500.co/eurasia",
+        "https://500.co/content/500-global-names-pedro-santos-vieira-as-partner-for-georgia",
+        "https://500.co/founders/eurasia/accelerator",
+        "https://tech.eu/2024/02/06/georgian-atartup-stori-raises-500k-to-automate-branding-and-content-creation/",
+        "https://www.therecursive.com/why-georgia-is-becoming-eurasias-startup-hub/"
+      ],
+      "warm_intro": false,
+      "personal_line": "Since you took over 500 Global's Georgia program in 2023, it has reached Batch 10 (Demo Day in Tbilisi, June 2026), and as a 500 Startups alum from my caru.ge days I'd like ZMANI to be considered for Batch 12.",
+      "notes": "Accelerator offers $100K per accepted company (subject to terms/diligence); equity not stated on page. Batch 11 runs Sep 21-Dec 11 2026 in Tbilisi; applications rolling and now considered for Batch 12 via eurasia.aplica.500.co. Page asks for early revenue and a functional prototype; ZMANI has a live product but no disclosed revenue. No pitch email published. Run with GITA and Bank of Georgia. 500 Global's Startup Academy is aimed at pre-MVP teams and is less relevant. Founder is a 500 Startups alum, so a warm route through the 500 network is likely, but not verified.",
+      "fit": 55,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "no sector overlap with fashion, e-commerce, consumer, AI, marketplaces (+0)",
+        "checks of $100K fit the $75K-$750K you want (+20)",
+        "Led STORI (Georgian AI martech) $500K pre-seed, 1022 days ago (+0)",
+        "invests in Georgia (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "y-combinator",
+      "name": "Y Combinator",
+      "firm": "Y Combinator",
+      "role": "",
+      "email": "",
+      "stage": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_min": 500000,
+      "check_max": 500000,
+      "sectors": [
+        "any"
+      ],
+      "geo": [
+        "global"
+      ],
+      "last_relevant_deal": null,
+      "sources": [
+        "https://www.ycombinator.com/deal"
+      ],
+      "warm_intro": false,
+      "personal_line": "YC's standard deal is $500K and has no nationality restriction, only a requirement to incorporate in the US, Canada, Cayman or Singapore.",
+      "notes": "Terms: $125K for 7% (post-money SAFE) plus $375K uncapped MFN SAFE. Would require flipping to a US/Canada/Cayman/Singapore parent; YC would refer lawyers. Not a lead for a $1.5M round at $10M pre on its own terms; it is a parallel option. Batch dates not shown on the page.",
+      "fit": 55,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "no sector overlap with fashion, e-commerce, consumer, AI, marketplaces (+0)",
+        "checks of $500K fit the $75K-$750K you want (+20)",
+        "no relevant deal on record (+0)",
+        "invests globally (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "givi-chkhartishvili",
+      "name": "Givi Chkhartishvili",
+      "firm": "Noxtton (Noxtton Ventures)",
+      "role": "Co-Founder & Managing Partner",
+      "email": "",
+      "stage": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_min": null,
+      "check_max": null,
+      "sectors": [
+        "SaaS",
+        "big data",
+        "analytics",
+        "edtech",
+        "consumer fintech"
+      ],
+      "geo": [
+        "Georgia",
+        "global"
+      ],
+      "last_relevant_deal": {
+        "what": "Hapttic $500K pre-seed (per Shizune)",
+        "date": "2025-01-01"
+      },
+      "sources": [
+        "https://shizune.co/investors/profile/noxtton"
+      ],
+      "warm_intro": false,
+      "personal_line": "Noxtton backed Tetri, a Georgian mobile banking app for sneaker enthusiasts, at pre-seed in 2022, so you have backed a consumer product aimed at a style-driven niche.",
+      "notes": "Tbilisi-based tech/consulting company with a venture-studio model. Data comes only from aggregators; the deal date is month-level (Jan 2025). No deal found since. I did not open noxtton.com. A press claim that Noxtton has invested $2M+ came from search snippets only and is unverified. No email.",
+      "fit": 51,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "sectors match: consumer (+15)",
+        "check size unknown (+0)",
+        "Hapttic $500K pre-seed (per Shizune), 692 days ago (+1)",
+        "invests globally (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "celine-lippi",
+      "name": "Celine Lippi",
+      "firm": "Fashion Capital Partners",
+      "role": "Managing Director",
+      "email": "",
+      "stage": [
+        "pre-seed",
+        "seed",
+        "series a"
+      ],
+      "check_min": null,
+      "check_max": null,
+      "sectors": [
+        "fashion tech",
+        "luxury tech",
+        "e-commerce",
+        "personalisation",
+        "3D"
+      ],
+      "geo": [
+        "Europe",
+        "US"
+      ],
+      "last_relevant_deal": null,
+      "sources": [
+        "https://fashioncapitalpartners.com/"
+      ],
+      "warm_intro": false,
+      "personal_line": "Fashion Capital Partners describes itself as the first investment company dedicated to fashion tech, with user-experience personalisation and 3D among its themes.",
+      "notes": "LIKELY INACTIVE: the newest news item on the site is from April 2015 and no recent deal was found. Applications go through Gust (Mode Business Angels). Only fashion-specific thesis fund found; included for completeness.",
+      "fit": 50,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "sectors match: fashion, e-commerce (+25)",
+        "check size unknown (+0)",
+        "no relevant deal on record (+0)",
+        "invests in Europe, US, not Georgia, Caucasus (+0)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "roman-novacek",
+      "name": "Roman Novacek",
+      "firm": "Presto Ventures",
+      "role": "Partner",
+      "email": "",
+      "stage": [
+        "seed",
+        "series a"
+      ],
+      "check_min": 500000,
+      "check_max": 5000000,
+      "sectors": [
+        "security",
+        "defense",
+        "aerospace",
+        "dual-use tech"
+      ],
+      "geo": [
+        "CEE",
+        "NATO countries",
+        "Israel",
+        "Georgia"
+      ],
+      "last_relevant_deal": {
+        "what": "Led Wempler (Georgian task-delegation marketplace) $330K pre-seed",
+        "date": "2024-01-22"
+      },
+      "sources": [
+        "https://www.prestoventures.com",
+        "https://www.vestbee.com/insights/articles/presto-ventures-leads-330k-pre-seed-round-for-georgian-startup-wempler/",
+        "https://funding.tech.eu/geographies/georgia"
+      ],
+      "warm_intro": false,
+      "personal_line": "Presto led Wempler's pre-seed in January 2024 and is the most active investor in Georgian startups in tech.eu's funding database.",
+      "notes": "LOW FIT NOW: the website says it now backs mostly post-revenue companies raising €800K-8M, with €500K-5M checks (in EUR), and its new €150M fund focuses on security/defense/aerospace. Included because of its Georgian track record (KLIPY, Wempler, Citypay.io). No pitch email; contact form at prestoventures.com/contact.",
+      "fit": 42,
+      "reasons": [
+        "invests at seed, series a, one stage off pre-seed (+12)",
+        "no sector overlap with fashion, e-commerce, consumer, AI, marketplaces (+0)",
+        "checks of $500K-$5M fit the $75K-$750K you want (+20)",
+        "Led Wempler (Georgian task-delegation marketplace) $330K pre-seed, 1037 days ago (+0)",
+        "invests in Georgia (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "kiyan-zandiyeh",
+      "name": "Kiyan Zandiyeh",
+      "firm": "Sturgeon Capital",
+      "role": "CEO / Managing Partner",
+      "email": "",
+      "stage": [
+        "seed",
+        "series a"
+      ],
+      "check_min": null,
+      "check_max": null,
+      "sectors": [
+        "fintech",
+        "B2B software",
+        "marketplaces"
+      ],
+      "geo": [
+        "Georgia",
+        "Caucasus",
+        "Central Asia",
+        "South Asia"
+      ],
+      "last_relevant_deal": {
+        "what": "Backed Georgian-founded KLIPY's $1.2M seed",
+        "date": "2025-04-03"
+      },
+      "sources": [
+        "https://sturgeoncapital.com",
+        "https://sturgeoncapital.com/contact-us/",
+        "https://www.entrepreneur.com/ka/siakhleebi-da-tendentsiebi/sturgeon-capital-georgia-startup-investment-summit/469868",
+        "https://techcrunch.com/2023/04/27/londons-sturgeon-capital-launches-35m-fund-aimed-at-emerging-startups-in-central-asia",
+        "https://tech.eu/2025/04/03/klipy-raises-12m-seed-to-monetise-gifs-stickers-and-memes/"
+      ],
+      "warm_intro": false,
+      "personal_line": "You said in February 2024, at the Sturgeon Georgia Startup Investment Summit in Tbilisi, that Sturgeon has been active in Georgia since 2006 and sees it as a regional tech hub.",
+      "notes": "Has a Tbilisi office. Pitches go through the application form on its contact page (hello@sturgeoncapital.com is for other inquiries, so I left email empty). Check size not published. Fund II ($35M, 2023) targets Central and South Asia; Georgia is not named in that fund's mandate. Partners also named: Robin Butler, Alex Branton. Annual Tbilisi summit planned, but I did not verify a 2025/2026 edition.",
+      "fit": 40,
+      "reasons": [
+        "invests at seed, series a, one stage off pre-seed (+12)",
+        "sectors match: marketplaces (+15)",
+        "check size unknown (+0)",
+        "Backed Georgian-founded KLIPY's $1.2M seed, 600 days ago (+3)",
+        "invests in Georgia (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "xrc-ventures",
+      "name": "XRC Ventures",
+      "firm": "XRC Ventures",
+      "role": "",
+      "email": "",
+      "stage": [
+        "pre-seed",
+        "seed",
+        "series a"
+      ],
+      "check_min": null,
+      "check_max": null,
+      "sectors": [
+        "digital commerce",
+        "store operations",
+        "payments",
+        "consumer brands",
+        "retail tech"
+      ],
+      "geo": [
+        "US"
+      ],
+      "last_relevant_deal": null,
+      "sources": [
+        "https://www.xrcventures.com/",
+        "https://www.xrcventures.com/apply"
+      ],
+      "warm_intro": false,
+      "personal_line": "XRC has backed 140+ pre-seed to Series A companies in retail, consumer and commerce technology since 2015, and digital commerce is one of its six theses.",
+      "notes": "Thesis fits (commerce/retail tech), but offices are New York and Los Angeles and the site does not state that it invests outside the US. Apply via xrcventures.com/apply. No email, check size or partners on the pages I read. No recent deal verified.",
+      "fit": 40,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "sectors match: consumer (+15)",
+        "check size unknown (+0)",
+        "no relevant deal on record (+0)",
+        "invests in US, not Georgia, Caucasus (+0)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "zero-gravity-capital",
+      "name": "Zero Gravity Capital",
+      "firm": "Zero Gravity Capital",
+      "role": "",
+      "email": "",
+      "stage": [
+        "pre-seed"
+      ],
+      "check_min": null,
+      "check_max": null,
+      "sectors": [
+        "consumer",
+        "generalist"
+      ],
+      "geo": [
+        "EU",
+        "Slovakia"
+      ],
+      "last_relevant_deal": null,
+      "sources": [
+        "https://cbw.ge/startup/skincare-startup-wewell-attracted-investment-from-zero-gravity-capital"
+      ],
+      "warm_intro": false,
+      "personal_line": "Zero Gravity backed Wewell, a consumer skincare startup with a Georgian co-founder, at pre-seed.",
+      "notes": "POSSIBLY INACTIVE: the Wewell article is about 4 years old; one aggregator lists the firm as inactive and another lists its last deal in May 2024 (I did not open either). HQ reportedly Bratislava. No website or email verified. Undated deal: Invested several hundred thousand euros in Wewell (skincare; Georgian co-founder Guram Jobava) pre-seed",
+      "fit": 40,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "sectors match: consumer (+15)",
+        "check size unknown (+0)",
+        "no relevant deal on record (+0)",
+        "invests in EU, Slovakia, not Georgia, Caucasus (+0)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "georgia-s-innovation-and-technology-agency-gita",
+      "name": "Georgia's Innovation and Technology Agency (GITA)",
+      "firm": "GITA (government agency)",
+      "role": "Grant funder / 500 Global Eurasia partner",
+      "email": "",
+      "stage": [
+        "pre-seed"
+      ],
+      "check_min": null,
+      "check_max": null,
+      "sectors": [
+        "innovation",
+        "tech"
+      ],
+      "geo": [
+        "Georgia"
+      ],
+      "last_relevant_deal": null,
+      "sources": [
+        "https://500.co/founders/eurasia/startup-academy",
+        "https://www.therecursive.com/why-georgia-is-becoming-eurasias-startup-hub/"
+      ],
+      "warm_intro": false,
+      "personal_line": "GITA co-runs the 500 Global Eurasia accelerator with Bank of Georgia, and the Startup Academy offers GITA grants of GEL 50,000 and GEL 150,000.",
+      "notes": "NOT AN EQUITY INVESTOR: grants are non-dilutive and need a separate GITA agreement; 500 Global is not involved in grant awards. The founder already received a GITA grant (caru.ge), so check eligibility. The Recursive cites $14M+ into about 240 startups (via Startup Genome). Grants are in GEL, so check is left empty. The GITA program page I tried returned 404; terms were not confirmed on gita.gov.ge.",
+      "fit": 35,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "no sector overlap with fashion, e-commerce, consumer, AI, marketplaces (+0)",
+        "check size unknown (+0)",
+        "no relevant deal on record (+0)",
+        "invests in Georgia (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "jean-frederic-paulsen",
+      "name": "Jean-Frederic Paulsen",
+      "firm": "Isari Ventures",
+      "role": "Director and Board Member",
+      "email": "",
+      "stage": [
+        "pre-seed"
+      ],
+      "check_min": null,
+      "check_max": null,
+      "sectors": [
+        "generalist"
+      ],
+      "geo": [
+        "Georgia"
+      ],
+      "last_relevant_deal": null,
+      "sources": [
+        "https://cbw.ge/business/isari-ventures-launches-5-mln-vc-fund-initiative-for-georgian-startups"
+      ],
+      "warm_intro": false,
+      "personal_line": "Isari Ventures launched a $5M initiative specifically for Georgian founders at the pre-product-market-fit stage.",
+      "notes": "POSSIBLY INACTIVE: the only coverage I found is the launch article ('posted 4 years ago', c. 2022), and I found no deals since; a search for 2025/2026 activity found nothing. No website or email found. Part of the Paulsen family's European investment holding. Undated deal: At launch, named portfolio: Phubber, Omofox, Kernel, SMB",
+      "fit": 35,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "no sector overlap with fashion, e-commerce, consumer, AI, marketplaces (+0)",
+        "check size unknown (+0)",
+        "no relevant deal on record (+0)",
+        "invests in Georgia (+10)"
+      ],
+      "added": "2026-11-24"
+    },
+    {
+      "id": "stan-science-technology-angels-network",
+      "name": "STAN - Science & Technology Angels Network",
+      "firm": "STAN",
+      "role": "",
+      "email": "info@stan.am",
+      "stage": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_min": null,
+      "check_max": null,
+      "sectors": [
+        "tech",
+        "deep tech",
+        "women-led startups"
+      ],
+      "geo": [
+        "Armenia",
+        "global"
+      ],
+      "last_relevant_deal": null,
+      "sources": [
+        "https://stan.am",
+        "https://seedblink.com/blog/top-angel-clubs-and-investment-networks-in-georgia"
+      ],
+      "warm_intro": false,
+      "personal_line": "STAN says it welcomes startups from anywhere in the world, and Armenia is ZMANI's planned second market.",
+      "notes": "Yerevan-based angel network; 33 deals and $1.9M invested in total (site). Leans to deep tech and proven tech. Weak fit for consumer fashion, but relevant for the Armenia expansion. Applications via Dealum link on the site. My Town AI deal date not stated. Undated deal: Co-invested with Triple S Ventures in My Town AI (first deal of STAN LA chapter)",
+      "fit": 35,
+      "reasons": [
+        "invests at pre-seed (+25)",
+        "no sector overlap with fashion, e-commerce, consumer, AI, marketplaces (+0)",
+        "check size unknown (+0)",
+        "no relevant deal on record (+0)",
+        "invests globally (+10)"
+      ],
+      "added": "2026-11-24"
+    }
+  ]
+}
