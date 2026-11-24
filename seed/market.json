@@ -1,0 +1,72 @@
+{
+  "created_by": "seed-market",
+  "generated": "2026-11-24",
+  "method": "top-down TAM, bottom-up SAM, SOM 2% of SAM in 3 years",
+  "tam": 300960640,
+  "sam": 97997280,
+  "som": 1959946,
+  "currency": "USD",
+  "inputs": [
+    {
+      "name": "men in Georgia (2024 census)",
+      "value": 1881004,
+      "unit": "count",
+      "source": "Geostat, 2024 Population and Agricultural Census final results (22.04.2026): 1,881,004 men, https://geostat.ge/media/78282/2024-Population-and-Agricultural-Census-of-Georgia-Finalized-results.pdf",
+      "kind": "url",
+      "level": "tam"
+    },
+    {
+      "name": "share who buy clothing",
+      "value": 100,
+      "unit": "%",
+      "source": "assumption: every man buys some clothing in a year; the spend below is the per-person average, so it already averages in low spenders",
+      "kind": "assumption",
+      "level": "tam"
+    },
+    {
+      "name": "clothing spend per person a year (USD)",
+      "value": 160,
+      "unit": "USD a year",
+      "source": "assumption built on Geostat 2025 figures reported by Georgia Today (25 May 2026): 603 GEL a month per household member x 12 x clothing share 5.8% = 419.7 GEL, at the deck's planning rate GEL 2.62 = $1, about $160; the base of the 5.8% (total vs cash spend) is to confirm in Geostat's release, https://georgiatoday.ge/geostat-household-spending-in-georgia-rises-to-1936-gel-food-share-increases/",
+      "kind": "assumption",
+      "level": "tam"
+    },
+    {
+      "name": "men in Tbilisi",
+      "value": 612483,
+      "unit": "count",
+      "source": "derived from Geostat 2024 census final results: Tbilisi 1,331,485 people, of whom 54% are women, so 46% men = 612,483, https://geostat.ge/media/78282/2024-Population-and-Agricultural-Census-of-Georgia-Finalized-results.pdf",
+      "kind": "url",
+      "level": "sam"
+    },
+    {
+      "name": "year of clothings a year per customer",
+      "value": 1,
+      "unit": "per year",
+      "source": "assumption: one year's clothing budget per man, so SAM is Tbilisi men's yearly clothing spend, the launch city",
+      "kind": "assumption",
+      "level": "sam"
+    },
+    {
+      "name": "price per year of clothing",
+      "value": 160,
+      "unit": "USD",
+      "source": "assumption: the same per-person clothing spend as the TAM ($160 a year); Tbilisi likely spends more than the national average, not counted",
+      "kind": "assumption",
+      "level": "sam"
+    }
+  ],
+  "notes": [],
+  "methods": {
+    "tam": "top-down",
+    "sam": "bottom-up"
+  },
+  "formulas": {
+    "tam": "1,881,004 men in Georgia (2024 census) x 100% x $160 = $300,960,640",
+    "sam": "612,483 men in Tbilisi x 1 year of clothings a year x $160 = $97,997,280",
+    "som": "2% of SAM $97,997,280 = $1,959,946"
+  },
+  "som_share_pct": 2.0,
+  "som_years": 3,
+  "som_reason": "Men in Tbilisi who already watch character and celebrity style content on TikTok and Instagram, reached through ZMANI's own comedic series and the founder's existing YouTube audience; ZMANI wins them by removing the item-by-item search, not by being cheaper. Expansion markets (Armenia, Azerbaijan, Turkey) are not counted here."
+}

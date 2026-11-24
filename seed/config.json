@@ -1,0 +1,26 @@
+{
+  "startup": {
+    "name": "ZMANI",
+    "one_liner": "Character-inspired complete looks for men: pick a character, see the full look on your own photo with AI try-on, buy only the items you don't already own",
+    "sector": "fashion e-commerce; AI virtual try-on; consumer apps; men's fashion",
+    "stage": "pre-seed",
+    "geography": "Georgia (Tbilisi); planned: Armenia, Azerbaijan, Turkey",
+    "raise": 1500000,
+    "instrument": "$10M pre-money, $11.5M post"
+  },
+  "founder": {
+    "name": "Nika Abashidze",
+    "email": "",
+    "company_address": "Tbilisi, Georgia"
+  },
+  "sec_user_agent": "",
+  "outreach": {
+    "daily_cap": 20,
+    "followup_days": [
+      3,
+      7
+    ],
+    "max_touches": 3,
+    "business_days": true
+  }
+}

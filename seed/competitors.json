@@ -1,0 +1,205 @@
+{
+  "created_by": "seed-scout",
+  "generated": "2026-11-24",
+  "low_stars": 2,
+  "weak_point_by": "gap",
+  "theme_labels": {
+    "fees": "fees and pricing",
+    "cancellations": "cancellations and no-shows",
+    "support": "customer support",
+    "bugs": "bugs and app quality",
+    "trust": "trust and safety",
+    "payments": "payments and refunds",
+    "availability": "availability"
+  },
+  "apps": [
+    {
+      "name": "shoppin",
+      "app_name": "shoppin: Fashion, Made For You",
+      "app_id": 6738202299,
+      "rating": 4.7,
+      "ratings": 13655,
+      "reviews_read": 99,
+      "low_reviews": 22,
+      "themes": {
+        "fees": 0,
+        "cancellations": 0,
+        "support": 1,
+        "bugs": 3,
+        "trust": 0,
+        "payments": 0,
+        "availability": 0
+      },
+      "top_theme": "bugs",
+      "weak_point": "bugs and app quality",
+      "weak_point_count": 3,
+      "weak_point_share": 13.6,
+      "weak_point_rule": "sets it apart",
+      "gap_points": 6.5,
+      "most_mentioned": "bugs",
+      "weak_point_line": "3 of 22 recent 1-2 star reviews mention bugs and app quality",
+      "examples": [
+        {
+          "title": "Buggy",
+          "date": "2026-07-27",
+          "stars": 1
+        },
+        {
+          "title": "I hate the new update!",
+          "date": "2026-05-01",
+          "stars": 1
+        },
+        {
+          "title": "Won’t let me log in",
+          "date": "2026-01-24",
+          "stars": 1
+        }
+      ],
+      "reviews_from": "2025-10-14",
+      "reviews_to": "2026-11-20",
+      "fetched": "2026-11-24",
+      "source": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6738202299/sortby=mostrecent/json (pages 1-2)"
+    },
+    {
+      "name": "Gensmo",
+      "app_name": "Gensmo: AI Stylist & Try-On",
+      "app_id": 6636520663,
+      "rating": 4.7,
+      "ratings": 1767,
+      "reviews_read": 52,
+      "low_reviews": 25,
+      "themes": {
+        "fees": 1,
+        "cancellations": 1,
+        "support": 0,
+        "bugs": 5,
+        "trust": 0,
+        "payments": 0,
+        "availability": 0
+      },
+      "top_theme": "bugs",
+      "weak_point": "bugs and app quality",
+      "weak_point_count": 5,
+      "weak_point_share": 20.0,
+      "weak_point_rule": "sets it apart",
+      "gap_points": 13.5,
+      "most_mentioned": "bugs",
+      "weak_point_line": "5 of 25 recent 1-2 star reviews mention bugs and app quality",
+      "examples": [
+        {
+          "title": "Glitchy with way too many features",
+          "date": "2026-03-01",
+          "stars": 1
+        },
+        {
+          "title": "The worst",
+          "date": "2025-09-21",
+          "stars": 1
+        },
+        {
+          "title": "It doesn’t work for me",
+          "date": "2025-08-27",
+          "stars": 1
+        }
+      ],
+      "reviews_from": "2024-12-14",
+      "reviews_to": "2026-07-30",
+      "fetched": "2026-11-24",
+      "source": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6636520663/sortby=mostrecent/json (pages 1-2)"
+    },
+    {
+      "name": "Dressly",
+      "app_name": "Dressly: AI Outfit Maker",
+      "app_id": 6738174180,
+      "rating": 4.4,
+      "ratings": 33796,
+      "reviews_read": 500,
+      "low_reviews": 226,
+      "themes": {
+        "fees": 52,
+        "cancellations": 71,
+        "support": 23,
+        "bugs": 10,
+        "trust": 34,
+        "payments": 68,
+        "availability": 3
+      },
+      "top_theme": "payments",
+      "weak_point": "payments and refunds",
+      "weak_point_count": 68,
+      "weak_point_share": 30.1,
+      "weak_point_rule": "sets it apart",
+      "gap_points": 30.1,
+      "most_mentioned": "cancellations",
+      "weak_point_line": "68 of 226 recent 1-2 star reviews mention payments and refunds",
+      "examples": [
+        {
+          "title": "Buyer Beware! Poor Quality, Overpriced, and Disappointing",
+          "date": "2026-11-16",
+          "stars": 1
+        },
+        {
+          "title": "Worst App and worst company",
+          "date": "2026-11-12",
+          "stars": 1
+        },
+        {
+          "title": "AI Generated Articles & Outfit Browsing",
+          "date": "2026-11-11",
+          "stars": 1
+        }
+      ],
+      "reviews_from": "2026-04-25",
+      "reviews_to": "2026-11-21",
+      "fetched": "2026-11-24",
+      "source": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6738174180/sortby=mostrecent/json (pages 1-10)"
+    },
+    {
+      "name": "Alta Daily",
+      "app_name": "Alta Daily: Digital AI Closet",
+      "app_id": 6481705400,
+      "rating": 4.9,
+      "ratings": 20733,
+      "reviews_read": 500,
+      "low_reviews": 28,
+      "themes": {
+        "fees": 0,
+        "cancellations": 0,
+        "support": 0,
+        "bugs": 5,
+        "trust": 0,
+        "payments": 0,
+        "availability": 0
+      },
+      "top_theme": "bugs",
+      "weak_point": "bugs and app quality",
+      "weak_point_count": 5,
+      "weak_point_share": 17.9,
+      "weak_point_rule": "sets it apart",
+      "gap_points": 11.3,
+      "most_mentioned": "bugs",
+      "weak_point_line": "5 of 28 recent 1-2 star reviews mention bugs and app quality",
+      "examples": [
+        {
+          "title": "Can’t use app",
+          "date": "2026-11-22",
+          "stars": 1
+        },
+        {
+          "title": "Please fix this",
+          "date": "2026-11-08",
+          "stars": 1
+        },
+        {
+          "title": "bad",
+          "date": "2026-09-27",
+          "stars": 1
+        }
+      ],
+      "reviews_from": "2026-08-31",
+      "reviews_to": "2026-11-22",
+      "fetched": "2026-11-24",
+      "source": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6481705400/sortby=mostrecent/json (pages 1-10)"
+    }
+  ]
+}

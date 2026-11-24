@@ -1,0 +1,41 @@
+{
+  "_about": "ZMANI. Base case = the founder's planned full budget with NO revenue counted, because no usage, payer or CAC data exists yet. Unit = one AI try-on photo at the planned GEL 0.50 (incl. 18% VAT), converted at the deck's planning rate GEL 2.62 = $1. take_rate_pct 84.75 = the ex-VAT share of the price (0.50/1.18 = 0.4237 GEL). Per-photo costs are the deck's planning estimates (AI compute GEL 0.16, payments GEL 0.01, support GEL 0.01), not measured. Own look sales (from late 2027) are NOT modelled. The $72.8K/month is the planned 13-person budget, not today's 3-person spend; hiring is meant to be phased, so this is the full-spend case. Start month 2027-01 is a placeholder: the round has not closed.",
+  "company": "ZMANI",
+  "currency": "USD",
+  "unit": "try-on photo",
+  "units": "try-on photos",
+  "start_month": "2027-01",
+  "cash_at_start": 0,
+  "raise": 1500000,
+  "raise_month": 1,
+  "price": 0.1908,
+  "take_rate_pct": 84.75,
+  "cost_per_order": [
+    {"label": "AI compute (GEL 0.16, planning estimate)", "fixed": 0.0611},
+    {"label": "payment fees (GEL 0.01, planning estimate)", "fixed": 0.0038},
+    {"label": "support (GEL 0.01, planning estimate)", "fixed": 0.0038}
+  ],
+  "customers": {
+    "starting": 0,
+    "new_month_1": 0,
+    "new_growth_pct": [0, 0, 0],
+    "churn_monthly_pct": 10,
+    "orders_per_customer_month": 1
+  },
+  "cac": 0,
+  "payroll_overhead_pct": 0,
+  "payroll": [],
+  "opex": [
+    {"label": "planned monthly budget: 13-person team (Product & AI 5, Content 4, Growth 2, Operations 1, Leadership 1), marketing and tools", "monthly": 72800}
+  ],
+  "one_off": [
+    {"label": "planned one-off costs", "month": 1, "cost": 38000}
+  ],
+  "use_of_funds": {
+    "Product & AI": 484000,
+    "Leadership, operations & admin": 333000,
+    "Content & production": 281000,
+    "Marketing & growth": 269000,
+    "Contingency / reserve": 133000
+  }
+}

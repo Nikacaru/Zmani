@@ -1,0 +1,342 @@
+{
+  "created_by": "seed-plan",
+  "tagline": "Dress like the character. Buy only what you're missing.",
+  "brand": {
+    "brand": "#2F6FEB",
+    "ink": "#0E1B33",
+    "accent": "#FFB020"
+  },
+  "sections": [
+    {
+      "key": "executive_summary",
+      "title": "Executive summary",
+      "text": "ZMANI (zmani.ai, Tbilisi) lets men start from a character or celebrity whose style they like, such as Tommy Shelby or James Bond, and get the complete look: every item, its price and a link to buy it. An AI try-on shows the look on the user's own photo, and the user unticks the items already owned and buys only the rest. Today the site is live in Georgian and English with 11 characters and 24 complete looks (as of 16 November 2026), built by a team of 3. No user, revenue or sales figures are reported yet and no partner is signed; talks with LC Waikiki are ongoing without an agreement. We are raising $1.5M pre-seed at $10M pre-money ($11.5M post) to prove demand and unit economics in Georgia first, then expand.",
+      "pitch": "Pick a character, try the look on, buy only what's missing.",
+      "points": []
+    },
+    {
+      "key": "problem",
+      "title": "Problem",
+      "text": "Men often like a specific style, a character's or a celebrity's, but rebuilding it means finding every item one by one, matching them, and guessing how the whole look will sit on them. Most give up or buy pieces that don't work together. This is ZMANI's core hypothesis; its scale and commercial value still have to be proven with user data, which is the first job of this round.",
+      "pitch": "Men like a character's style but won't hunt down and match every item themselves.",
+      "points": []
+    },
+    {
+      "key": "solution",
+      "title": "Solution",
+      "text": "ZMANI makes the complete look the unit of shopping. The user picks a character, opens that character's complete looks, sees each item with its price and store link, tries the look on their own photo with AI (about 20 seconds per the product description; no full speed and quality benchmark yet), unticks what they already own and buys the rest through the stores' links. ZMANI does not run its own checkout, warehouse or delivery today, and makes no claim about AI sizing or fewer returns.",
+      "pitch": "Pick a character, try the complete look on your own photo, buy only the missing items.",
+      "points": [
+        "Complete looks: every item, price, link",
+        "AI try-on on your own photo",
+        "Buy only what you're missing"
+      ]
+    },
+    {
+      "key": "market",
+      "title": "Market",
+      "text": "We size the launch market from official data. Geostat's 2024 census counts 1,881,004 men in Georgia. Clothing spend per person is our assumption, built from Geostat's 2025 household figures (603 GEL per household member a month, clothing 5.8%), about $160 a year. That gives a Georgian men's clothing TAM of about $301M, a Tbilisi SAM of about $98M (612,483 men) and a SOM of 2% of SAM in 3 years, about $1.96M. Armenia, Azerbaijan and Turkey are planned next and are not counted here.",
+      "pitch": "Georgian men's clothing: about $301M a year; Tbilisi alone about $98M.",
+      "points": []
+    },
+    {
+      "key": "competition",
+      "title": "Competition",
+      "text": "Global apps already sell AI styling and try-on, mostly as subscriptions and mostly built around the user's own closet, not around a character's complete look with only the missing items to buy. Their recent one- and two-star App Store reviews (read 24 November 2026) show the gaps: Dressly (4.4 stars, 33,796 ratings) has 68 of 226 about payments and refunds; Gensmo (AI stylist and try-on) and shoppin get complaints mostly about bugs and app quality. ZMANI's look-first, pay-per-photo model with no subscription answers the first.",
+      "pitch": "Rivals sell closets and subscriptions. ZMANI sells the complete look, pay per photo.",
+      "points": []
+    },
+    {
+      "key": "business_model",
+      "title": "Business model",
+      "text": "Two planned stages. 2027: complete looks and all item links are free; the only paid feature is AI try-on at a planned GEL 0.50 a photo, sold as credit top-ups so each photo is not a separate card charge. After 18% VAT that is GEL 0.42 of revenue; with planning estimates of GEL 0.16 AI compute, GEL 0.01 payments and GEL 0.01 support, the contribution is about GEL 0.24 a photo before acquisition and fixed costs. From late 2027 ZMANI plans to sell looks itself, starting as a limited pilot, with a working assumption of supplier cost at about 70% of retail (about 30% gross margin, not net profit); no supplier has agreed to these terms yet.",
+      "pitch": "Free looks; paid AI try-on at GEL 0.50 a photo; own look sales planned from late 2027.",
+      "points": []
+    },
+    {
+      "key": "go_to_market",
+      "title": "Go-to-market",
+      "text": "Planned, not yet measured. The in-house team makes comedic TikTok series built on characters, celebrities and their looks; the best videos get paid boosts on Facebook and Instagram; celebrities share their favourite looks (none agreed yet); and the founder's existing 128K-subscriber YouTube channel helps early distribution (an audience, not ZMANI users). We validate demand and economics in Georgia first, then expand. We measure content clicks, look opens, paid try-ons, item-link clicks, confirmed purchases and repeat use.",
+      "pitch": "Character comedy content first; prove it in Georgia.",
+      "points": [
+        "Comedic character series on TikTok",
+        "Best videos boosted on Meta",
+        "Founder's YouTube channel (128K)"
+      ]
+    },
+    {
+      "key": "financial_plan",
+      "title": "Financial plan",
+      "text": "The model counts no revenue, because there is no usage, payer or CAC data yet. At the full planned budget of $72,800 a month plus $38,000 one-off, the $1.5M lasts 20 months; 24 months at that budget would cost about $1.785M, so we are about $285K short of 24 months unless revenue arrives or spending is cut. Hiring is phased on test results, so the real burn should start lower. The founder's five-year revenue goals ($0.20M in 2027 to $50.7M in 2031) are a long-term ambition built top-down, not a forecast.",
+      "pitch": "20 months of runway, no revenue counted.",
+      "points": []
+    },
+    {
+      "key": "use_of_funds",
+      "title": "Use of funds",
+      "text": "$484,000 Product & AI, $333,000 leadership, operations and admin, $281,000 content and production, $269,000 marketing and growth, and a $133,000 reserve (about 8.9% of the round). The budget allows a team of up to 13 (Product & AI 5, Content 4, Growth 2, Operations 1, Leadership 1), hired in stages as tests succeed. The milestone: proven demand and unit economics in Georgia.",
+      "pitch": "Prove demand and unit economics in Georgia.",
+      "points": []
+    }
+  ],
+  "team": [
+    {
+      "name": "Nika Abashidze",
+      "role": "Founder & CEO",
+      "line": "Ran caru.ge, a Georgian car marketplace, ~8 years. 500 Startups; Forbes Georgia 30 Under 30."
+    },
+    {
+      "name": "Levani",
+      "role": "Growth & paid ads",
+      "line": "Growth and paid ads."
+    },
+    {
+      "name": "Giorgi",
+      "role": "Operations",
+      "line": "Operations."
+    }
+  ],
+  "numbers": {
+    "currency": "USD",
+    "raise": 1500000,
+    "instrument": "$10M pre-money, $11.5M post",
+    "stage": "pre-seed",
+    "unit_economics": {
+      "unit": "try-on photo",
+      "units": "try-on photos",
+      "price": 0.1908,
+      "take_rate_pct": 84.75,
+      "revenue_per_order": 0.161703,
+      "cost_per_order": 0.0687,
+      "costs": [
+        {
+          "label": "AI compute (GEL 0.16, planning estimate)",
+          "amount": 0.0611
+        },
+        {
+          "label": "payment fees (GEL 0.01, planning estimate)",
+          "amount": 0.0038
+        },
+        {
+          "label": "support (GEL 0.01, planning estimate)",
+          "amount": 0.0038
+        }
+      ],
+      "contribution_per_order": 0.093003,
+      "orders_per_customer_month": 1,
+      "contribution_per_customer_month": 0.093003,
+      "churn_monthly_pct": 10,
+      "cac": 0,
+      "ltv": null,
+      "ltv_cac": null,
+      "cac_payback_months": null
+    },
+    "financials": {
+      "months": 36,
+      "start_month": "2027-01",
+      "end_month": "2029-12",
+      "revenue_y1": 0,
+      "revenue_y2": 0,
+      "revenue_y3": 0,
+      "gmv_y1": 0,
+      "gmv_y2": 0,
+      "gmv_y3": 0,
+      "breakeven_month": null,
+      "breakeven_date": null,
+      "peak_burn": 110800,
+      "peak_burn_month": 1,
+      "runway_months": 20,
+      "cash_out_month": 21,
+      "cash_low": -1158800,
+      "cash_low_month": 36,
+      "cash_end": -1158800,
+      "customers_end": 0,
+      "years": [
+        {
+          "year": 1,
+          "orders": 0,
+          "gmv": 0,
+          "revenue": 0,
+          "gross_profit": 0,
+          "opex": 911600,
+          "net": -911600,
+          "cash_end": 588400,
+          "customers_end": 0
+        },
+        {
+          "year": 2,
+          "orders": 0,
+          "gmv": 0,
+          "revenue": 0,
+          "gross_profit": 0,
+          "opex": 873600,
+          "net": -873600,
+          "cash_end": -285200,
+          "customers_end": 0
+        },
+        {
+          "year": 3,
+          "orders": 0,
+          "gmv": 0,
+          "revenue": 0,
+          "gross_profit": 0,
+          "opex": 873600,
+          "net": -873600,
+          "cash_end": -1158800,
+          "customers_end": 0
+        }
+      ]
+    },
+    "model_raise": 1500000,
+    "use_of_funds": {
+      "Product & AI": 484000,
+      "Leadership, operations & admin": 333000,
+      "Content & production": 281000,
+      "Marketing & growth": 269000,
+      "Contingency / reserve": 133000
+    },
+    "use_of_funds_pct": {
+      "Product & AI": 32.3,
+      "Leadership, operations & admin": 22.2,
+      "Content & production": 18.7,
+      "Marketing & growth": 17.9,
+      "Contingency / reserve": 8.9
+    },
+    "market": {
+      "method": "top-down TAM, bottom-up SAM, SOM 2% of SAM in 3 years",
+      "currency": "USD",
+      "tam": 300960640,
+      "sam": 97997280,
+      "som": 1959946,
+      "inputs": [
+        {
+          "name": "men in Georgia (2024 census)",
+          "value": 1881004,
+          "unit": "count",
+          "source": "Geostat, 2024 Population and Agricultural Census final results (22.04.2026): 1,881,004 men, https://geostat.ge/media/78282/2024-Population-and-Agricultural-Census-of-Georgia-Finalized-results.pdf",
+          "kind": "url",
+          "level": "tam"
+        },
+        {
+          "name": "share who buy clothing",
+          "value": 100,
+          "unit": "%",
+          "source": "assumption: every man buys some clothing in a year; the spend below is the per-person average, so it already averages in low spenders",
+          "kind": "assumption",
+          "level": "tam"
+        },
+        {
+          "name": "clothing spend per person a year (USD)",
+          "value": 160,
+          "unit": "USD a year",
+          "source": "assumption built on Geostat 2025 figures reported by Georgia Today (25 May 2026): 603 GEL a month per household member x 12 x clothing share 5.8% = 419.7 GEL, at the deck's planning rate GEL 2.62 = $1, about $160; the base of the 5.8% (total vs cash spend) is to confirm in Geostat's release, https://georgiatoday.ge/geostat-household-spending-in-georgia-rises-to-1936-gel-food-share-increases/",
+          "kind": "assumption",
+          "level": "tam"
+        },
+        {
+          "name": "men in Tbilisi",
+          "value": 612483,
+          "unit": "count",
+          "source": "derived from Geostat 2024 census final results: Tbilisi 1,331,485 people, of whom 54% are women, so 46% men = 612,483, https://geostat.ge/media/78282/2024-Population-and-Agricultural-Census-of-Georgia-Finalized-results.pdf",
+          "kind": "url",
+          "level": "sam"
+        },
+        {
+          "name": "year of clothings a year per customer",
+          "value": 1,
+          "unit": "per year",
+          "source": "assumption: one year's clothing budget per man, so SAM is Tbilisi men's yearly clothing spend, the launch city",
+          "kind": "assumption",
+          "level": "sam"
+        },
+        {
+          "name": "price per year of clothing",
+          "value": 160,
+          "unit": "USD",
+          "source": "assumption: the same per-person clothing spend as the TAM ($160 a year); Tbilisi likely spends more than the national average, not counted",
+          "kind": "assumption",
+          "level": "sam"
+        }
+      ],
+      "notes": ""
+    },
+    "competitors": [
+      {
+        "name": "shoppin",
+        "rating": 4.7,
+        "ratings": 13655,
+        "reviews_read": 99,
+        "low_reviews": 22,
+        "top_theme": "bugs",
+        "top_label": "bugs and app quality",
+        "top_count": 3,
+        "weak_point": "bugs and app quality",
+        "source": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6738202299/sortby=mostrecent/json (pages 1-2)"
+      },
+      {
+        "name": "Gensmo",
+        "rating": 4.7,
+        "ratings": 1767,
+        "reviews_read": 52,
+        "low_reviews": 25,
+        "top_theme": "bugs",
+        "top_label": "bugs and app quality",
+        "top_count": 5,
+        "weak_point": "bugs and app quality",
+        "source": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6636520663/sortby=mostrecent/json (pages 1-2)"
+      },
+      {
+        "name": "Dressly",
+        "rating": 4.4,
+        "ratings": 33796,
+        "reviews_read": 500,
+        "low_reviews": 226,
+        "top_theme": "payments",
+        "top_label": "payments and refunds",
+        "top_count": 68,
+        "weak_point": "payments and refunds",
+        "source": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6738174180/sortby=mostrecent/json (pages 1-10)"
+      },
+      {
+        "name": "Alta Daily",
+        "rating": 4.9,
+        "ratings": 20733,
+        "reviews_read": 500,
+        "low_reviews": 28,
+        "top_theme": "bugs",
+        "top_label": "bugs and app quality",
+        "top_count": 5,
+        "weak_point": "bugs and app quality",
+        "source": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6481705400/sortby=mostrecent/json (pages 1-10)"
+      }
+    ],
+    "competitors_generated": "2026-11-24",
+    "low_stars": 2
+  },
+  "flags": [],
+  "notes": [
+    "The cash runs out in month 21 (Sep 2028): the raise covers 20 months. Say what it buys by then, or raise more.",
+    "No breakeven inside the 36 months of the model.",
+    "Executive summary text: 24, 16 are in none of the seed/ files. Check them.",
+    "Competition text: 24 is in none of the seed/ files. Check it.",
+    "Business model text: 0.50, 0.42, 0.24, 70% are in none of the seed/ files. Check them.",
+    "Business model pitch: 0.50 is in none of the seed/ files. Check it.",
+    "Go-to-market text: 128K is in none of the seed/ files. Check it.",
+    "Go-to-market points: 128K is in none of the seed/ files. Check it.",
+    "Financial plan text: 24, $1.785M, 24, $0.20M, $50.7M are in none of the seed/ files. Check them."
+  ],
+  "built": "2026-11-24",
+  "startup": {
+    "name": "ZMANI",
+    "one_liner": "Character-inspired complete looks for men: pick a character, see the full look on your own photo with AI try-on, buy only the items you don't already own",
+    "sector": "fashion e-commerce; AI virtual try-on; consumer apps; men's fashion",
+    "stage": "pre-seed",
+    "geography": "Georgia (Tbilisi); planned: Armenia, Azerbaijan, Turkey",
+    "raise": 1500000,
+    "instrument": "$10M pre-money, $11.5M post"
+  },
+  "founder": {
+    "name": "Nika Abashidze",
+    "email": ""
+  }
+}
