@@ -2,7 +2,7 @@
 
 **Character-inspired complete looks for men: pick a character, see the full look on your own photo with AI try-on, buy only the items you don't already own.**
 
-Raising a $1,500,000 pre-seed round on a $10M pre-money, $11.5M post. Built Nov 24, 2026 from the files in seed/.
+Raising a $1,500,000 pre-seed round on a $10M pre-money, $11.5M post. Built Nov 25, 2026 from the files in seed/.
 
 | Key number | |
 | --- | ---: |
@@ -30,9 +30,9 @@ Raising a $1,500,000 pre-seed round on a $10M pre-money, $11.5M post. Built Nov 
 
 ## 1. Executive summary
 
-ZMANI (zmani.ai, Tbilisi) lets men start from a character or celebrity whose style they like, such as Tommy Shelby or James Bond, and get the complete look: every item, its price and a link to buy it. An AI try-on shows the look on the user's own photo, and the user unticks the items already owned and buys only the rest. Today the site is live in Georgian and English with 11 characters and 24 complete looks (as of 16 November 2026), built by a team of 3. No user, revenue or sales figures are reported yet and no partner is signed; talks with LC Waikiki are ongoing without an agreement. We are raising $1.5M pre-seed at $10M pre-money ($11.5M post) to prove demand and unit economics in Georgia first, then expand.
+ZMANI (zmani.ai, Tbilisi) lets men start from a character or celebrity whose style they like, such as Tommy Shelby or James Bond, and get the complete look: every item, its price and a link to buy it. An AI try-on shows the look on the user's own photo, and the user unticks the items already owned and buys only the rest. Today the site is live in Georgian and English with 11 characters and 24 complete looks (as of 16 November 2026), built by a team of 4. No user, revenue or sales figures are reported yet and no partner is signed; talks with LC Waikiki are ongoing without an agreement. We are raising $1.5M pre-seed at $10M pre-money ($11.5M post) to prove demand and unit economics in Georgia first, then expand.
 
-**Team.** Nika Abashidze, Founder & CEO. Ran caru.ge, a Georgian car marketplace, ~8 years. 500 Startups; Forbes Georgia 30 Under 30. Levani, Growth & paid ads. Growth and paid ads. Giorgi, Operations. Operations.
+**Team.** Nika Abashidze, Founder & CEO. Ran caru.ge, a Georgian car marketplace, ~8 years. 500 Startups; Forbes Georgia 30 Under 30. Rezi, CTO & Software Developer. Leads technology and builds the product. Levani, Growth & paid ads. Growth and paid ads. Giorgi, Operations. Operations.
 
 ## 2. Problem
 
