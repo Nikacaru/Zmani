@@ -83,7 +83,7 @@ S.append(slide("Where we are today", "The product is live. Growth starts with th
       <div class="stat"><div class="big">24</div><p>complete looks, each with its items and prices</p></div>
       <div class="stat"><div class="big">~20 sec</div><p>AI try-on on your own photo, as the site states</p></div>
       <div class="stat"><div class="big">2</div><p>languages: Georgian and English</p></div>
-      <div class="stat"><div class="big">4</div><p>people today: CEO, CTO, growth, operations</p></div>
+      <div class="stat"><div class="big">4</div><p>people today: two co-founders (CEO, CTO), growth, operations</p></div>
       <div class="stat"><div class="big">128K</div><p>subscribers on the founder’s YouTube channel</p></div>
     </div>
     <div class="bar dark">LC Waikiki is in talks; nothing is signed.</div>""",
@@ -161,14 +161,14 @@ S.append(slide("Unit economics · Georgia · plan", "Every GEL 0.5 photo leaves 
     "Planning estimates, rounded, in GEL. GEL 2.62 = $1; photos are bought as credit top-ups."))
 
 # 12 · Team
-S.append(slide("Team", "Led by a founder who has done it before",
+S.append(slide("Team", "A founder who has done it before, with a technical co-founder",
     """<div class="team">
       <div class="left">
-        <div class="founder"><div class="role">Founder &amp; CEO</div><div class="nm">Nika Abashidze</div>
+        <div class="founder"><div class="role">Co-founder &amp; CEO</div><div class="nm">Nika Abashidze</div>
           <div class="fstat"><b>8 yrs</b><span>founder &amp; CEO of caru.ge, a Georgian car marketplace</span></div>
           <p>500 Startups · TechCrunch Disrupt 2022 · GITA grant · Forbes Georgia 30 Under 30 · YouTube 128K</p></div>
         <div class="mates">
-          <div><b>Rezi</b><span>CTO &amp; software developer</span></div>
+          <div><b>Rezi</b><span>Co-founder &amp; CTO, builds the product</span></div>
           <div><b>Levani</b><span>Growth &amp; paid ads</span></div>
           <div><b>Giorgi</b><span>Operations</span></div>
         </div>
