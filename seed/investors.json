@@ -460,8 +460,8 @@
         "https://500.co/eurasia"
       ],
       "warm_intro": false,
-      "personal_line": "Shizune's profile of Digital Area lists a June 2020 seed investment in 'CARU', a platform for booking vetted car mechanics.",
-      "notes": "LIKELY INACTIVE as a direct investor: last tracked deal Aug 2021. Bank of Georgia's current startup role is co-running the 500 Global Eurasia accelerator. IMPORTANT: Shizune lists a $15K seed in 'CARU' (2020-06-15); please check whether this is the founder's caru.ge. If so, it is an existing relationship and warm_intro should be updated. No official site or email found. Data comes only from an aggregator.",
+      "personal_line": "",
+      "notes": "LIKELY INACTIVE as a direct investor: last tracked deal Aug 2021. Bank of Georgia's current startup role is co-running the 500 Global Eurasia accelerator. IMPORTANT: Shizune lists a $15K seed in 'CARU' (2020-06-15); please check whether this is the founder's caru.ge. If so, it is an existing relationship and warm_intro should be updated. No official site or email found. Data comes only from an aggregator. FOUNDER'S INSTRUCTION: do not mention the 2020 CARU investment in any outreach or materials.",
       "fit": 60,
       "reasons": [
         "invests at pre-seed (+25)",
